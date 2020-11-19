@@ -1,0 +1,11 @@
+CBIR
+
+Content Based Image Retrieval (CBIR) adalah aplikasi dasar computer vision. Tujuannya adalah mendapatkan image yang mirip/serupa/similar sesuai dengan image yang diinputkan oleh user. Dalam hal ini, image yang diinputkan user ini bertindak sebagai user's query. Proses yang dilakukan dalam CBIR adalah proses standard dalam komputer vision yaitu sebagai berikut:
+
+1. Preprocessing, yaitu membentuk image user agar sesuai dengan proses yang dibutuhkan, misal dilakukan grayscaling, filtering, thresholding, dll.
+
+2. Feature extraction, yaitu menentukan dan mendapatkan suatu variable tertentu yang digunakan sbg acuan perbandingan antara image sbg query user dan image collection dlm repository/bank data/database.
+
+3. Pattern recognition, yaitu melakukan proses perbandingan/comparison/similarity untuk mendapatkan nilai kecocokan/similarity antara user query dan image collection, kemudian meranking nilai similarity tsb. Yang paling cocok/the most similar akan menjadi jawaban dari user query. 
+
+Umumnya CBIR system akan memproduksi lebih dari satu jawaban, misal output nya adalah dalam scope 1 sd 5 top ranking dari image yang paling cocok.
