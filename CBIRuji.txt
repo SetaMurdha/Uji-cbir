@@ -1,0 +1,22 @@
+Assalamu'alaikum pak, 
+permisi pak,
+
+saya mau bertanya lagi terkait design system saya.
+Apakah masih ada yang keliru nggih?
+
+[14:02, 11/20/2020] +62 816-4299-881: Query itu kan pertanyaan, jadi muncul nya di awal, bukan di tengah
+
+[14:03, 11/20/2020] +62 816-4299-881: Yang kamu extract itu feature apa? Masak histogram itu feature?
+
+[14:03, 11/20/2020] +62 816-4299-881: Extract apanya histogram? Cara mendapatkan nya secara step by step bagaimana?
+
+[14:04, 11/20/2020] +62 816-4299-881: Bagaimana step by step melakukan pembandingan mask region? Perlu dijelaskan secara detail. Mask region itu apa?
+
+Color feature nya pak, nanti menghasilkan histogram color pak. Dari histogram nya itu yang jadi pembanding
+
+[14:05, 11/20/2020] +62 816-4299-881: Kok tiba2 muncul perbandingan chi square itu bagaimana?
+
+[14:05, 11/20/2020] +62 816-4299-881: Jelaskan secara detail
+
+Karena yang dibandingkan 2 histogram maka saya menggunakan chi-square pak
+Nggih pak
